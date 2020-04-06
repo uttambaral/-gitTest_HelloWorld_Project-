@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="">
+    <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="github.com added..">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +22,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -103,34 +105,47 @@
     <option name="LAST_COMMIT_MESSAGE" value="github.com added.." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1585234145186">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="288" y="0" key="CommitChangelistDialog2" timestamp="1586207769391">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="288" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1586207769391" />
     <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585234145186" />
     <state x="92" y="92" width="1182" height="544" maximized="true" key="DiffContextDialog" timestamp="1585234202014">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" maximized="true" key="DiffContextDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585234202014" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1586197177906">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586197177906" />
     <state x="521" y="266" width="347" height="196" key="Github.CreateGistDialog" timestamp="1585233437668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="521" y="266" width="347" height="196" key="Github.CreateGistDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585233437668" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585257227151">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1586200941808">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586200941808" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585257227151" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585257227150">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1586200941808">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586200941808" />
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585257227150" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585257227150">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1586200941808">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586200941808" />
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585257227150" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585257227150">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1586200941808">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586200941808" />
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585257227150" />
+    <state x="316" y="40" key="NewModule_or_Project.wizard" timestamp="1586197327726">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="316" y="40" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1586197327726" />
     <state x="275" y="89" key="Vcs.Push.Dialog.v2" timestamp="1585233737251">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
