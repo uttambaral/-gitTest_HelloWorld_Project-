@@ -11,6 +11,7 @@ public class Main {
         int[] intArray = {1, 2, 3, 4, 5};
         for (int a : intArray) {
             System.out.println(a);
+            //my world
         }
     }
 }
