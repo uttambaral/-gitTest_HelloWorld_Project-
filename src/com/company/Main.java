@@ -6,11 +6,13 @@ public class Main {
         // write your code here
         System.out.println("hello world ! from github.com..");
         System.out.print("Sandesh Lamsal");
+        System.out.print("Uttam Baral");
 
         //April62020
         int[] intArray = {1, 2, 3, 4, 5};
         for (int a : intArray) {
             System.out.println(a);
+            //git commit
         }
     }
 }
